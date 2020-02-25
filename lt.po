@@ -187,41 +187,41 @@ msgstr ""
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:68
 msgctxt "AssetUpdateTask|"
 msgid "Failed to read the assets index!"
-msgstr ""
+msgstr "Nepavyko perskaityti failų"
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:74
 msgctxt "AssetUpdateTask|"
 msgid "Getting the assets files from Mojang..."
-msgstr ""
+msgstr "Gaunami reikalingi failai iš Mojang..."
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:88
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download the assets index:\n"
 "%1"
-msgstr ""
+msgstr "Nepavyko atsisiūsti failų index:\n"
 
 #: src/api/logic/minecraft/update/AssetUpdateTask.cpp:93
 #, qt-format
 msgctxt "AssetUpdateTask|"
 msgid "Failed to download assets:\n"
 "%1"
-msgstr ""
+msgstr "Nepavyko atsisiūsti failų:\n"
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:92
 msgctxt "AuthenticateTask|"
 msgid "Authentication server didn't send a client token."
-msgstr ""
+msgstr "Patvirtinimo serveris neišsiuntė klientui užsakymo"
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:97
 msgctxt "AuthenticateTask|"
 msgid "Authentication server attempted to change the client token. This isn't supported."
-msgstr ""
+msgstr "Patvirtinimo serveris pabandė pakeisti kliento užsakymą. Tačiau tai nėra palaikoma"
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:109
 msgctxt "AuthenticateTask|"
 msgid "Authentication server didn't send an access token."
-msgstr ""
+msgstr "Patvirtinimo serveris neatsiuntė priėjimo prie užsakymo"
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:154
 msgctxt "AuthenticateTask|"
@@ -236,17 +236,17 @@ msgstr ""
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:196
 msgctxt "AuthenticateTask|"
 msgid "Authenticating: Sending request..."
-msgstr ""
+msgstr "Patvirtinama: Siunčiamas užsakymas..."
 
 #: src/api/logic/minecraft/auth/flows/AuthenticateTask.cpp:198
 msgctxt "AuthenticateTask|"
 msgid "Authenticating: Processing response..."
-msgstr ""
+msgstr "Laukiama atsakymo"
 
 #: src/api/logic/tools/BaseProfiler.cpp:30
 msgctxt "BaseProfiler|"
 msgid "Profiler aborted"
-msgstr ""
+msgstr "Profilis nutrauktas"
 
 #: src/api/logic/java/launch/CheckJava.cpp:36
 #, qt-format
@@ -263,22 +263,22 @@ msgstr ""
 #: src/api/logic/java/launch/CheckJava.cpp:46
 msgctxt "CheckJava|"
 msgid "Java path is not valid."
-msgstr ""
+msgstr "Javo sintaksė to neatlieka"
 
 #: src/api/logic/java/launch/CheckJava.cpp:64
 msgctxt "CheckJava|"
 msgid "Checking Java version..."
-msgstr ""
+msgstr "Tikrinama Java versija..."
 
 #: src/api/logic/java/launch/CheckJava.cpp:86
 msgctxt "CheckJava|"
 msgid "Could not start java:"
-msgstr ""
+msgstr "Negalima paleisti java:"
 
 #: src/api/logic/java/launch/CheckJava.cpp:90
 msgctxt "CheckJava|"
 msgid "Could not start java!"
-msgstr ""
+msgstr "Negalima paleisti java!"
 
 #: src/api/logic/java/launch/CheckJava.cpp:95
 msgctxt "CheckJava|"
@@ -294,7 +294,7 @@ msgstr ""
 #: src/api/logic/java/launch/CheckJava.cpp:127
 msgctxt "CheckJava|"
 msgid "Your CPU architecture is not matching your system architecture. You might want to install a 64bit Operating System.\n\n"
-msgstr ""
+msgstr "Jūsų CPU architektūra nesutampa su jūsų sistemos architektūra. Jūs galite susiinstaliuoti 64 bitų operacinę sistemą.\n\n"
 
 #: src/api/logic/java/launch/CheckJava.cpp:133
 msgctxt "CheckJava|"
